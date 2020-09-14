@@ -1,6 +1,8 @@
 # test_syudy
 一个用来学习的仓库
 
-打（"hello python")
+我改了一点东西
 
-自动化
+
+print("hello python")
+
